@@ -1,0 +1,14 @@
+{
+  "title": "Text-free audit artifact for \"Concept Recognition Is Not Concept Sufficiency: Exact Macro-F1 Auditing of a Credibility Model for Vietnamese-Language Facebook Posts\"",
+  "upload_type": "dataset",
+  "description": "<p>Companion material for the EAI FISAT 2026 paper. The artifact contains no post text. It includes the row-level release manifest (8,468 collected items with eligibility, exclusion code, split, near-duplicate component, target, and ten gold concepts for retained posts), test-set gold-profile counts and model outputs, the locked parameters, aggregate results, figures with alt text, and scripts that recompute the exact macro-F1 optimum and the paper's test-set results.</p>",
+  "creators": [
+    {"name": "Duong, Tam Thi My", "affiliation": "FPT University, Quy Nhon Campus"},
+    {"name": "Tran, Khanh Van", "affiliation": "FPT University, Quy Nhon Campus"},
+    {"name": "Le, Anh Tuan", "affiliation": "FPT University, Quy Nhon Campus"},
+    {"name": "Le, Hieu Trung", "affiliation": "FPT University, Quy Nhon Campus"}
+  ],
+  "keywords": ["concept bottleneck models", "interpretable machine learning", "Vietnamese NLP", "Facebook", "macro-F1"],
+  "license": "cc-by-4.0",
+  "version": "1.0"
+}
